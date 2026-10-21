@@ -1,0 +1,26 @@
+.ejer8{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#formContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    label{
+        font-size: 25px;
+        font-weight: 600;
+        margin-bottom: 15px;
+    }
+    #texto{
+        resize: none;
+        height: 100px;
+        width: 300px;
+        font-size: 20px;
+    }
+}
+
+.contadores{
+    font-size: 25px;
+}

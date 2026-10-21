@@ -1,0 +1,26 @@
+// Importe de estilos por ejercicio.
+@use './index.scss';
+@use './ejercicio1.scss';
+@use './ejercicio2.scss';
+@use './ejercicio3.scss';
+@use './ejercicio4.scss';
+@use './ejercicio5.scss';
+@use './ejercicio6.scss';
+@use './ejercicio7.scss';
+@use './/ejercicio8.scss';
+@use './ejercicio9.scss';
+
+body{
+    height: 97vh;
+}
+
+#inicio{
+    max-width: 55px;
+    margin-bottom: 60px;
+    a{
+        text-decoration: none;
+        color: black;
+        font-weight: 600;
+        font-size: 16px;
+    }
+}

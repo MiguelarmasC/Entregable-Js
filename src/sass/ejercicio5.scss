@@ -1,0 +1,25 @@
+
+.ejer5{
+    display: flex;
+    justify-content: center;
+}
+#calculadora{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    max-width: 110px;
+    margin-bottom: 30px;
+    button{
+       font-size: 20px;
+    }
+    input{
+        height: 25px;
+        font-size: 15px;
+    }
+    input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer-spin-button { 
+        -webkit-appearance: none; 
+        margin: 0;
+    }
+    input[type=number] {
+        appearance:textfield;
+    }
+}
