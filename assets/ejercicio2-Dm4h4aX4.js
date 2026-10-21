@@ -1,0 +1,1 @@
+import"./main-BsCe3FZB.js";var e=document.getElementById(`btnClicks`),t=document.getElementById(`contador`),n=0;t&&(t.innerText=n.toString());function r(){if(n+=1,t)return t.innerText=n.toString(),t}e?.addEventListener(`click`,e=>{e.preventDefault(),r()});
