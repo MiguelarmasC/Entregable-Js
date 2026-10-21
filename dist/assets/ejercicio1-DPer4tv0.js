@@ -1,0 +1,1 @@
+import"./main-Ctl3c-dT.js";var e=document.getElementById(`btn-changeColor`);function t(){return`${255*Math.random()}, ${255*Math.random()}, ${255*Math.random()}`}e&&e.addEventListener(`click`,e=>{e.preventDefault();let n=t();document.body.style.backgroundColor=`rgb(${n})`});
