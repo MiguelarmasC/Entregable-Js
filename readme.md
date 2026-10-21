@@ -6,7 +6,7 @@ Este repositorio contiene una colección de ejercicios prácticos desarrollados 
 
 ## 📂 Estructura del Repositorio y Arquitectura de Archivos
 
-El proyecto está organizado para separar los ejercicios individualmente, con una página de aterrizaje para poder seleccionar entre los diferentes ejercicios; GitHub Pages[cite: 1]. 
+El proyecto está organizado para separar los ejercicios individualmente, con una página de aterrizaje para poder seleccionar entre los diferentes ejercicios; GitHub Pages[Link: (https://miguelarmasc.github.io/Entregable-Js/)]. 
 Cada ejercicio cuenta con su propia hoja de estilos modular en **SASS/SCSS**:
 
 ```text
